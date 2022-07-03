@@ -1,10 +1,15 @@
 {
-  "posts": [
+  "users": [
     {
-      "title": "post1"
-    },
-    {
-      "tile": "post2"
+      "id": 1,
+      "organizationName": "WebLuna",
+      "phoneNumber": 345812050,
+      "address": "Baki",
+      "userName": "Nadir",
+      "email": "nadir@nadir.com",
+      "password": "123456",
+      "role": "admin",
+      "tasks": []
     }
   ]
 }
